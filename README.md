@@ -15,16 +15,16 @@ Key Features
 
 ### Technologies Used
 
-Python: Core programming language for implementing encryption and decryption algorithms.
-PIL (Python Imaging Library): Used for handling image loading and saving.
-NumPy: Enables efficient manipulation of pixel data using arrays.
+1. Python: Core programming language for implementing encryption and decryption algorithms.
+2. PIL (Python Imaging Library): Used for handling image loading and saving.
+3. NumPy: Enables efficient manipulation of pixel data using arrays.
 
 ### Prerequisites
 
 Ensure Python is installed, along with these required libraries:
 
-PIL (Pillow)
-NumPy
+1. PIL (Pillow)
+2. NumPy
 
 ### Learning Outcomes
 
