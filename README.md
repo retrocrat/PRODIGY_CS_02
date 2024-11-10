@@ -1,4 +1,4 @@
-# Pixel Manipulation
+# Pixel Manipulation for Image Encryption
 
 ### Project Overview
 
@@ -39,7 +39,7 @@ This project serves as an engaging introduction to image encryption techniques i
 
 ### Code
 
-Here is the Python code for the Pixel Manipulation:
+Here is the Python code for the Pixel Manipulation for Image Encryption:
 
 ```
 from PIL import Image
