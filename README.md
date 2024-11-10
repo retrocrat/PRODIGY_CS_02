@@ -5,7 +5,7 @@
 This tool leverages the Python Imaging Library (PIL) and NumPy to encrypt images by manipulating their pixels. By performing an XOR bitwise operation on each pixel value with a randomly generated key, the tool securely encrypts the image. Using the same key, it then decrypts the image back to its original form, ensuring the process is both effective and reversible.
 Key Features
 
-    Image Encryption: Encrypts an image by applying an XOR operation on each pixel using a unique key.
+*Image Encryption: Encrypts an image by applying an XOR operation on each pixel using a unique key.
     Image Decryption: Reverses the encryption process to restore the original image, using the same key.
     Random Key Generation: Generates a new random key for each encryption session, boosting security.
     Simple Interface: Command-line interface for straightforward interaction, allowing users to specify the image file path easily.
