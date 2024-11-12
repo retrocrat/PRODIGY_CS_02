@@ -39,7 +39,7 @@ def decrypt_image(encrypted_image_path, key, output_path="decrypted_image.png"):
 def main():
     print("Image Encryption and Decryption using Pixel Manipulation")
 
-    # Get the image path from the user
+    # Get the image path from the user #https://github.com/retrocrat/PRODIGY_CS_02
     image_path = input("Enter the path to the image file: ")
 
     # Encrypt the image
